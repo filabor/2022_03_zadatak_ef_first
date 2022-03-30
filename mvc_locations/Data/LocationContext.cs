@@ -34,7 +34,7 @@ namespace mvc_locations.Data
                 {
                     id = 2,
                     country_name = "Španjolska",
-                    country_name_eng = "Spian",
+                    country_name_eng = "Spain",
                     country_code = "+34"
                 }
             );
